@@ -1,6 +1,4 @@
 # Yosvany Blanco
-# CSCE 4430 (Quentin Mayo)
-# Project question 3
 
 # must install the "requests" module
 # must also install "BeautifulSoup4" Module
